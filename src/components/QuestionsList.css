@@ -1,0 +1,27 @@
+<<<<<<< HEAD
+.quiz-page{
+    width: 100%;
+    height: 100%;
+}
+
+.question-list-box{
+    position: relative;
+    top: 352px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+=======
+.quiz-page{
+    width: 100%;
+    height: 100%;
+}
+
+.question-list-box{
+    position: relative;
+    top: 352px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+>>>>>>> 659ff1546195ba73f5ae4e7d241f07029f17dfc2

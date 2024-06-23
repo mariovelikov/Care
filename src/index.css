@@ -1,0 +1,18 @@
+:root{
+  --percent: 50%;
+  --questions-text-color: rgba(28, 38, 53, 1);
+}
+
+#root{
+  width: 1440px;
+  height: 1024px;
+  top: -324px;
+  left: -368px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', 'sans-serif';
+}

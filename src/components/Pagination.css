@@ -1,0 +1,86 @@
+<<<<<<< HEAD
+.back-next-btns{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.back-button{
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(103, 116, 135, 1);
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.next-button{
+    cursor: pointer;
+    font-family: 'Roboto';
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background-color: rgba(195, 237, 255, 1);
+    border-radius: 8px;
+    padding: 14px 40px 14px 40px;
+    color: rgba(28, 38, 53, 1);
+
+}
+
+.next-button p{
+    text-decoration: none;
+}
+
+.next-button ion-icon{
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none ;
+=======
+.back-next-btns{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.back-button{
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(103, 116, 135, 1);
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.next-button{
+    cursor: pointer;
+    font-family: 'Roboto';
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background-color: rgba(195, 237, 255, 1);
+    border-radius: 8px;
+    padding: 14px 40px 14px 40px;
+    color: rgba(28, 38, 53, 1);
+
+}
+
+.next-button p{
+    text-decoration: none;
+}
+
+.next-button ion-icon{
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none ;
+>>>>>>> 659ff1546195ba73f5ae4e7d241f07029f17dfc2
+}
